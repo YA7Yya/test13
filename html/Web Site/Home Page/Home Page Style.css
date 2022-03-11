@@ -1,0 +1,236 @@
+
+    .a {
+        height: 320px;
+        width: 320px;
+        border-width: 100px;
+        border-style: solid;
+        border-image: 100px;
+        border-color: white;
+        border: white;
+    }
+    html {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    h3 {
+        font-weight: 450;
+    }
+    * {
+        padding: 0%;
+        margin: 0%;
+    }
+ 
+  a{
+      color: white;
+  }
+  
+    .h {
+        position: absolute;
+        bottom: 0%;
+        top: 300%;
+        right: 0%;
+        left: 0%;
+        font-size: 17.72px;
+        font-family: cursive;
+    }
+    .p {
+        position: absolute;
+        top: 150%;
+    }
+    .copyright {
+        margin: auto;
+        font-family: cursive;
+        position: absolute;
+        bottom: 0%;
+        top: 500%;
+        right: 0%;
+        left: 0%;
+    
+    }
+    .hid {
+        visibility: hidden;
+    }
+    .c {
+        padding-right: 12px;
+    }
+    .o {
+        padding-right: 200px;
+        position: absolute;
+        right: 20px;
+    }
+    * {
+        padding: 0px;
+        margin: 0px;
+        
+    }
+    .j {
+        font-family: 'Courier New', Courier, monospace;
+        visibility: hidden;
+    }
+    .m {
+        font-family: 'Courier New', Courier, monospace;
+    }
+    body {
+        background-repeat: no-repeat;
+    }
+    .rotate {
+        transform: rotate(deg);
+       position: absolute;
+       bottom: 200px;
+    
+    right: 80%;
+    }
+    .rotate2 {
+        position: absolute;
+        bottom: 10px;
+        top: 70%;
+        right: 80%;
+    }
+    .rotate4 {
+        position: absolute;
+        bottom: 100%;
+        top: 1000px;
+        right: 80%;
+    }
+  
+    .rotate3 {
+        position: absolute;
+        bottom: 50%;
+        top: 115%;
+        right: 80%;
+        left: 50px;
+    }
+    .rotate5 {
+        position: absolute;
+        top: 190%;
+        right: 80%;
+    }
+    .rotate6 {
+        position: absolute;
+        top: 225%;
+        right: 80%;
+    }
+    .rotate7 {
+        position: absolute;
+        top: 220%;
+        right: 43%;
+    }
+    .rotate8 {
+        position: absolute;
+        bottom: 25%;
+        left: 80%;
+        text-align: center;
+    }
+    .rotate9 {
+        position: absolute;
+        left: 82%;
+        top: 80%;
+        text-align: center;
+    }
+    .rotate10 {
+        position: absolute;
+        left: 80%;
+        top: 120%;
+    }
+    .rotate11 {
+        position: absolute;
+        left: 80%;
+        bottom: 5px;
+        top: 170%;
+    }
+    .rotate12 {
+        position: absolute;
+        left: 80%;
+        top: 220%;
+    }
+    .maps {
+        font-size: 30px;
+    }
+    .lll {
+        cursor: default;
+    }
+    .ii {
+        visibility: hidden;
+    }
+    .telgramlink {
+        display: inline;
+        position: absolute;
+        top: 75px;
+        top: 220px;
+        right: 80%;
+        visibility: hidden;
+    }
+    .facebooklink {
+        visibility: hidden;
+    }
+    .lll {
+        margin: 2%;
+        padding-right: 10;
+    }
+   
+
+
+#myBtn {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed/sticky position */
+    bottom: 20px; /* Place the button at the bottom of the page */
+    right: 30px; /* Place the button 30px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: red; /* Set a background color */
+    color: white; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 15px; /* Some padding */
+    border-radius: 10px; /* Rounded corners */
+    font-size: 18px; /* Increase font size */
+  }
+  
+  #myBtn:hover {
+    background-color: #555; /* Add a dark-grey background on hover */
+  }
+.kla::selection, .kla:hover{
+color: red;
+}
+.kla:visited{
+    color: rgba(0, 255, 106, 0.781);
+    
+}
+/* .mar-text {
+    position: absolute;
+    right: 1850px;
+} */
+
+
+.homemenu:hover{
+    color: #00ff1a;
+    background-color: #0B0606;
+border:  4px solid;
+border-radius: 20px;
+}
+.contactusmenu:hover{
+    color: #00ff1a;
+    background-color: #0B0606;
+border:  4px solid;
+border-radius: 20px;
+}
+.productsmenu:hover{
+    color: #00ff1a;
+    background-color: #0B0606;
+border:  4px solid;
+border-radius: 20px;
+}
+
+
+a:hover{
+    font-size: 20px;
+}
+.be::before{
+content: "K";
+color: #00ff1a;
+}
+a:active{
+    color: #00ff1a;
+    background-color: #0B0606;
+border:  4px solid;
+border-radius: 20px;
+}
